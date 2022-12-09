@@ -23,4 +23,6 @@ The program also saves the original and the AI-generated version of every snapsh
 ## Requirements
 Python, a web camera, some python libraries (see the code for which ones) and most importantly, an OpenAI API key (openai.com)
 
-There should also be a 'log' directory present in which to store images.
+Edit the Python code as necessary to add your API key.
+
+Also, there should also be a 'log' directory present in which to store images.
