@@ -10,8 +10,7 @@ openai.api_key = "YOUR_API_KEY_HERE"
 
 '''
 Inter-Dimensional (or parallel universe, whatever) Camera
-***REMOVED*** Dec 2022
-@DP2CNK
+rb@failmail.club Dec 2022
 
 This is a camera that takes pictures from an alternate, parallel reality.
 
