@@ -1,7 +1,7 @@
 # Inter-Dimensional Camera
-This is a simple art project: *a camera that takes pictures from one dimension over* (or from a parallel universe, whatever.)  
+This is a simple art project: *a camera that takes pictures from one dimension over* (or from a parallel universe, if you prefer.)  
 
-It does this by using an art-generating AI to create a photo that is similar to (but not the same as) whatever the camera sees. When you take a photo, you don't see the camera's output, you see the AI's rendition.  The result is like taking photos from across dimensions.
+It does this by using an art-generating AI to create a photo that is similar to (but *not* the same as) whatever the camera was pointed at when the shutter was triggered. When you take a photo, you don't see the camera's output, you see the AI's rendition.  The result feels like taking photos from across dimensions.
 
 That's why the photos it takes are always... different.  **It's not imaging the reality that is in front of the lens, it's imaging whatever reality is in front of the lens FROM ONE DIMENSION OVER.**
 
